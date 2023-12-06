@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ProsayanBhadury
+- 👀 I’m interested in Data Science , Data Analytics , Power Bi...
+- 🌱 I’m currently learning Python , ML  ...
+- 📫 How to reach me prosayanb@gmail.com...
+
+<!---
+ProsayanBhadury/ProsayanBhadury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
